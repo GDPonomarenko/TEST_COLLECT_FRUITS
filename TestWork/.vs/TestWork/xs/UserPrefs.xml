@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BF373EF9-E9F8-B6EE-FE8B-6CC907FC5B57}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ConveyorController.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Spavn.cs" />
+      <File FileName="Assets/Scripts/RotateGrinder.cs" />
+      <File FileName="Assets/Scripts/CollectController.cs" />
+      <File FileName="Assets/Scripts/CharacterController.cs" Line="176" Column="1" />
+      <File FileName="Assets/Scripts/StaffController.cs" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/Basket.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestWork" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ConveyorController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54cae952-ec40-4fe0-bb3e-b8d6cda09556" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
